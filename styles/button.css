@@ -34,28 +34,3 @@
 .button--disabled {
     opacity: .5;
 }
-
-.price--size-small {
-    font-size: 12px;
-}
-
-.price--size-large {
-    font-size: 16px;
-}
-
-.price--theme-red {
-    color: red;
-}
-
-.price--theme-green {
-    color: green;
-}
-
-.price--theme-gray {
-    color: gray;
-}
-
-.card__image {
-    width: 150px;
-    height: 150px;
-}
